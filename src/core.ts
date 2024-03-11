@@ -9,7 +9,7 @@ import {
   FillingFlashTake as FillingFlashTakeEvent,
   FillFlashTake as FillFlashTakeEvent,
 } from '../generated/OrderBook/OrderBook'
-
+ 
 import {
   ClosePosition1 as ClosePositionEventOld,
   OpenPosition1 as OpenPositionEventOld,
